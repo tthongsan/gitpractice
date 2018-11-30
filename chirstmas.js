@@ -1,10 +1,10 @@
 1;
-2;
+turtle doves;
 3;
 4;
 5;
-6;
-7;
+geese a laying;
+swans a swiming;
 8;
 9;
 10;
