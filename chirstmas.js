@@ -6,7 +6,7 @@ turtle doves;
 geese a laying;
 swans a swiming;
 8;
-9;
+9; 'hello'
 10 chick a chicking;
 11 pipers piping;
 12 drummers drumming;
